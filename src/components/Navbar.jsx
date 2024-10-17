@@ -27,14 +27,13 @@ const Navbar = () => {
         ))}
       </ul>
 
-      <div className="flex justify-center items-center gap-8 pl-12">
-        <p
-          className={`font-poppins font-normal cursor-pointer text-[16px] text-gradient`}
-        >
+      <div className="hidden lg:flex justify-center items-center gap-8 pl-12">
+        <p className={`font-poppins font-normal cursor-pointer text-[16px] text-gradient`}>
           Log In
         </p>
         <NavGetStarted />
       </div>
+
 
       <div className="sm:hidden flex flex-1 justify-end items-center">
         <img
