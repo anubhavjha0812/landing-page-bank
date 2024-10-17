@@ -47,7 +47,7 @@ src/
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/bank-landing-page.git
+   https://github.com/anubhavjha0812/landing-page-bank.git
    ```
 
 2. **Navigate to the project directory**:
