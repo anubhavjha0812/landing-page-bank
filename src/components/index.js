@@ -9,6 +9,8 @@ import Footer from "./Footer";
 import Testimonials from "./Testimonials";
 import Hero from "./Hero";
 import NavGetStarted from "./NavGetStarted";
+import NewsCard from "./NewsCard";
+import NewsSection from "./NewsSection";
 
 export {
   Navbar,
@@ -22,4 +24,6 @@ export {
   Testimonials,
   Hero,
   NavGetStarted,
+  NewsCard,
+  NewsSection,
 };

@@ -49,7 +49,7 @@ src/
 2. **Navigate to the project directory**:
 
    ```bash
-   cd bank-landing-page
+   cd landing-page-bank
    ```
 
 3. **Install the dependencies**:

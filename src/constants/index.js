@@ -223,4 +223,29 @@ export const clients = [
     id: "client-4",
     logo: dropbox,
   },
+  
+];
+
+export const newsData = [
+  {
+    id: 1,
+    title: "New Banking Features Launched",
+    description: "We are excited to introduce our latest banking features to enhance your experience.",
+    date: "October 10, 2024",
+    image: "path/to/image1.jpg", // Replace with your image path
+  },
+  {
+    id: 2,
+    title: "Customer Appreciation Day",
+    description: "Join us for our annual Customer Appreciation Day on November 1st.",
+    date: "October 15, 2024",
+    image: "path/to/image2.jpg", // Replace with your image path
+  },
+  {
+    id: 3,
+    title: "Improved Security Features",
+    description: "Your security is our priority. Learn about our new security features.",
+    date: "October 17, 2024",
+    image: "path/to/image3.jpg", // Replace with your image path
+  },
 ];
