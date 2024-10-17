@@ -1,7 +1,3 @@
-Here’s the `README.md` in a more professional markdown format that you can copy and paste:
-
----
-
 # Bank Landing Page
 
 A modern, responsive **bank landing page** designed to provide a seamless user experience across devices. This project is built using **React**, **Vite**, and **Tailwind CSS** to ensure optimal performance, scalability, and ease of development.
@@ -70,7 +66,7 @@ src/
    npm run dev
    ```
 
-   The app will be live at `http://localhost:3000`.
+   The app will be live at `http://localhost:5173`.
 
 5. **Build for production**:
 
